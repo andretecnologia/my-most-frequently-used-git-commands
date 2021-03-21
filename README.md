@@ -1,5 +1,8 @@
 # My most frequently used git commands
 
+```
+git show
+```
 
 ```
 git rm —cached arquivo.extensao
